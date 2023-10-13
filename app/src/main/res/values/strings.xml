@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodingInFlowNavCom</string>
+    <string name="home_srean">Home Srean</string>
+    <string name="login">Login</string>
+    <string name="successfully_logged_in">Successfully logged in!</string>
+    <string name="ok">OK</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+</resources>
